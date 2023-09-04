@@ -1,0 +1,13 @@
+﻿  Cat.cpp
+  Dog.cpp
+  Fish.cpp
+  Pet.cpp
+  PetShop.cpp
+C:\Users\22756\Desktop\高级程序设计\19220110 吴秀全 电子宠物商店最终版\19220110 吴秀全 电子宠物商店最终版\PetShop.cpp(8,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\22756\Desktop\高级程序设计\19220110 吴秀全 电子宠物商店最终版\19220110 吴秀全 电子宠物商店最终版\PetShop.cpp(80,21): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Rabbit.cpp
+  Turtle.cpp
+  test.cpp
+C:\Users\22756\Desktop\高级程序设计\19220110 吴秀全 电子宠物商店最终版\19220110 吴秀全 电子宠物商店最终版\test.cpp(13,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  19220110 吴秀全 电子宠物商店最终版.vcxproj -> C:\Users\22756\Desktop\高级程序设计\19220110 吴秀全 电子宠物商店最终版\x64\Debug\19220110 吴秀全 电子宠物商店最终版.exe
