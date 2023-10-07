@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第二次上机题", "第二次上机题\第二次上机题.vcxproj", "{30CFCA65-7664-4ACA-A011-DBE17D46E9BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30CFCA65-7664-4ACA-A011-DBE17D46E9BB}.Debug|x64.ActiveCfg = Debug|x64
+		{30CFCA65-7664-4ACA-A011-DBE17D46E9BB}.Debug|x64.Build.0 = Debug|x64
+		{30CFCA65-7664-4ACA-A011-DBE17D46E9BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{30CFCA65-7664-4ACA-A011-DBE17D46E9BB}.Debug|x86.Build.0 = Debug|Win32
+		{30CFCA65-7664-4ACA-A011-DBE17D46E9BB}.Release|x64.ActiveCfg = Release|x64
+		{30CFCA65-7664-4ACA-A011-DBE17D46E9BB}.Release|x64.Build.0 = Release|x64
+		{30CFCA65-7664-4ACA-A011-DBE17D46E9BB}.Release|x86.ActiveCfg = Release|Win32
+		{30CFCA65-7664-4ACA-A011-DBE17D46E9BB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {739600A3-F83C-44B5-89AF-6FB39672EDD8}
+	EndGlobalSection
+EndGlobal
