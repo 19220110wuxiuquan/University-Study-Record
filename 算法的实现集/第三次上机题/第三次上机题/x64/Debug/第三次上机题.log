@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\22756\Desktop\University-Study-Record\算法的实现集\第三次上机题\第三次上机题\main.cpp(12,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\22756\Desktop\University-Study-Record\算法的实现集\第三次上机题\第三次上机题\main.cpp(13,5): error C2872: “next”: 不明确的符号
+C:\Users\22756\Desktop\University-Study-Record\算法的实现集\第三次上机题\第三次上机题\main.cpp(6,5): message : 可能是“int next[100]”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(1442,31): message : 或  “_InIt std::next(_InIt,iterator_traits<_Iter>::difference_type)”
+C:\Users\22756\Desktop\University-Study-Record\算法的实现集\第三次上机题\第三次上机题\main.cpp(18,13): error C2872: “next”: 不明确的符号
+C:\Users\22756\Desktop\University-Study-Record\算法的实现集\第三次上机题\第三次上机题\main.cpp(6,5): message : 可能是“int next[100]”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(1442,31): message : 或  “_InIt std::next(_InIt,iterator_traits<_Iter>::difference_type)”
+C:\Users\22756\Desktop\University-Study-Record\算法的实现集\第三次上机题\第三次上机题\main.cpp(21,17): error C2872: “next”: 不明确的符号
+C:\Users\22756\Desktop\University-Study-Record\算法的实现集\第三次上机题\第三次上机题\main.cpp(6,5): message : 可能是“int next[100]”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(1442,31): message : 或  “_InIt std::next(_InIt,iterator_traits<_Iter>::difference_type)”
+C:\Users\22756\Desktop\University-Study-Record\算法的实现集\第三次上机题\第三次上机题\main.cpp(30,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\22756\Desktop\University-Study-Record\算法的实现集\第三次上机题\第三次上机题\main.cpp(31,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\22756\Desktop\University-Study-Record\算法的实现集\第三次上机题\第三次上机题\main.cpp(38,17): error C2872: “next”: 不明确的符号
+C:\Users\22756\Desktop\University-Study-Record\算法的实现集\第三次上机题\第三次上机题\main.cpp(6,5): message : 可能是“int next[100]”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(1442,31): message : 或  “_InIt std::next(_InIt,iterator_traits<_Iter>::difference_type)”
+C:\Users\22756\Desktop\University-Study-Record\算法的实现集\第三次上机题\第三次上机题\main.cpp(53,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\22756\Desktop\University-Study-Record\算法的实现集\第三次上机题\第三次上机题\main.cpp(55,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
